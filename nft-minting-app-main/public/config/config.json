@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x76171AB40f49c1Aa520fDc757120B42eF769eB91",
+  "SCAN_LINK": "https://polygonscan.com/address/0x76171ab40f49c1aa520fdc757120b42ef769eb91",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Crypto Skull Master",
+  "SYMBOL": "CSM",
+  "MAX_SUPPLY": 4000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cryptoskullmaster",
+  "SHOW_BACKGROUND": true
+}
