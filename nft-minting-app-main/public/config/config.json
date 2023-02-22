@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x76171AB40f49c1Aa520fDc757120B42eF769eB91",
-  "SCAN_LINK": "https://polygonscan.com/address/0x76171ab40f49c1aa520fdc757120b42ef769eb91",
+  "CONTRACT_ADDRESS": "0x589Ce7df9D21fD7B83Bd0aC3A75F86D2AD26Ff9E",
+  "SCAN_LINK": "https://bscscan.com/address/0x589ce7df9d21fd7b83bd0ac3a75f86d2ad26ff9e",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
+    "NAME": "Binance",
+    "SYMBOL": "BNB",
     "ID": 137
   },
-  "NFT_NAME": "Crypto Skull Master",
-  "SYMBOL": "CSM",
-  "MAX_SUPPLY": 4000,
-  "WEI_COST": 1000000000000000000,
-  "DISPLAY_COST": 1,
+  "NFT_NAME": "The Wiking Women",
+  "SYMBOL": "TWW",
+  "MAX_SUPPLY": 41,
+  "WEI_COST": 4000000000000000,
+  "DISPLAY_COST": 0.004,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/cryptoskullmaster",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-wiking-women",
   "SHOW_BACKGROUND": true
 }
