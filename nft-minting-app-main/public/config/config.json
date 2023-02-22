@@ -2,9 +2,9 @@
   "CONTRACT_ADDRESS": "0x589Ce7df9D21fD7B83Bd0aC3A75F86D2AD26Ff9E",
   "SCAN_LINK": "https://bscscan.com/address/0x589ce7df9d21fd7b83bd0ac3a75f86d2ad26ff9e",
   "NETWORK": {
-    "NAME": "Binance",
+    "NAME": "Binance Smart Chain Mainnet",
     "SYMBOL": "BNB",
-    "ID": 137
+    "ID": 56
   },
   "NFT_NAME": "The Wiking Women",
   "SYMBOL": "TWW",
