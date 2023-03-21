@@ -1,17 +1,17 @@
 {
-  "CONTRACT_ADDRESS": "0xF8DBc2386927841cE2efFE61a763a1e4dB79D5fd",
+  "CONTRACT_ADDRESS": "0xf8dbc2386927841ce2effe61a763a1e4db79d5fd",
   "SCAN_LINK": "https://polygonscan.com/token/0xf8dbc2386927841ce2effe61a763a1e4db79d5fd",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "chromaverse",
+  "NFT_NAME": "ChromaVerse",
   "SYMBOL": "CVNFT",
   "MAX_SUPPLY": 250000,
   "WEI_COST": 75000000000000000,
   "DISPLAY_COST": 0.01,
-  "GAS_LIMIT": 3000000,
+  "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/chromaverse",
   "SHOW_BACKGROUND": true
