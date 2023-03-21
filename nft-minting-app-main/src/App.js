@@ -147,7 +147,7 @@ function App() {
         setFeedback(
           `WOW, the ${CONFIG.NFT_NAME} is yours! go visit Opensea.io to view it.`
         );
-        setClaimingNft(false);
+        setClaimingNft(true);
         dispatch(fetchData(blockchain.account));
       });
   };
