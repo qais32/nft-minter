@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x589Ce7df9D21fD7B83Bd0aC3A75F86D2AD26Ff9E",
-  "SCAN_LINK": "https://bscscan.com/address/0x589ce7df9d21fd7b83bd0ac3a75f86d2ad26ff9e",
+  "CONTRACT_ADDRESS": "0xF8DBc2386927841cE2efFE61a763a1e4dB79D5fd",
+  "SCAN_LINK": "https://polygonscan.com/token/0xf8dbc2386927841ce2effe61a763a1e4db79d5fd",
   "NETWORK": {
-    "NAME": "Binance Smart Chain Mainnet",
-    "SYMBOL": "BNB",
-    "ID": 56
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
   },
-  "NFT_NAME": "The Wiking Women",
-  "SYMBOL": "TWW",
-  "MAX_SUPPLY": 41,
+  "NFT_NAME": "chromaverse",
+  "SYMBOL": "CVNFT",
+  "MAX_SUPPLY": 250000,
   "WEI_COST": 4000000000000000,
-  "DISPLAY_COST": 0.004,
-  "GAS_LIMIT": 285000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 3000000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-wiking-women",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/chromaverse",
   "SHOW_BACKGROUND": true
 }
